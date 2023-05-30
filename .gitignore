@@ -1,0 +1,50 @@
+# parametreler.json
+parametreler.json
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+env/
+
+# Dependency Directories
+lib/
+libs/
+library/
+
+# Compiled Files
+*.pyc
+*.pyo
+*.pyd
+*.class
+
+# Log Files
+*.log
+
+# macOS Files
+.DS_Store
+
+# IDE-specific Files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore the environment-specific config file
+.env
+
+
+# Dependencies
+/node_modules
+
+# Build Output
+/build
+/dist
+
+# Cache and Log Files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
